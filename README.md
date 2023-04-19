@@ -5,9 +5,8 @@ Esse projeto foi projetado e criado para a quest do modulo base do React
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [React](https://react.dev/) - O framework web usado
+
 
 ## 🧙‍♂️ Algumas anotações aos professores!
 
