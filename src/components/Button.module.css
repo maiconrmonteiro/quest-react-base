@@ -1,0 +1,19 @@
+.btn {
+    margin-top: 40px;
+}
+
+.btn button {
+    padding: 10px;
+    border: none;
+    background-color: #F677A7;
+    border-radius: 9px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.btn button:hover {
+    background-color: #b65278;
+    color: aliceblue;
+}

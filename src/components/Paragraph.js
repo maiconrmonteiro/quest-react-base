@@ -7,9 +7,9 @@ function Paragraph( { text } ) {
            
             <p id="poem" className="poem">{text}</p>
 
-            <img src={img} />
+            <img src={img} alt="Foto corações pintados"/>
 
-            <Call color='red'/>
+            <Call color='red' fontWeight='bolder' />
         </>
     )
 }

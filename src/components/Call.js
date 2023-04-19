@@ -1,9 +1,7 @@
-
-
-function Call( {color} ) {
+function Call( { color, fontWeight } ) {
     return (
         <>
-            <p className="call" style={ {color} }> Aproveite, clique nas cores abaixo para colorir esse poema!</p>
+            <p id="call" className="call" style={ { color, fontWeight } }> Aproveite, clique nas cores abaixo para colorir esse poema!</p>
         </>
     )
 }
